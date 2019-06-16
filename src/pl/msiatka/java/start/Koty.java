@@ -82,7 +82,7 @@ public class Koty {
     }
 
     private void przedstawSie(){
-        System.out.println("Jestem kotek: " + this.getName() + " ważę " + this.getWeight() + " mój opiekun to: "
+        System.out.println("Jestem Jan Kotek : " + this.getName() + " ważę " + this.getWeight() + " mój opiekun to: "
                 + this.getOpiekunName() + " urodziłem się: " + this.getDateOfBirth());
     }
 
