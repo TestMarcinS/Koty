@@ -77,7 +77,7 @@ public class Koty {
     }
 
     private static void przedstawSie(Koty kot){
-        System.out.println("Jestem kotek: " +  kot.getName() + " ważę " + kot.getWeight() + " mój opiekun to: "
+        System.out.println("Jestem kotek : " +  kot.getName() + " ważę " + kot.getWeight() + " mój opiekun to: "
                         + kot.getOpiekunName() + " urodziłem się: " + kot.getDateOfBirth());
     }
 
